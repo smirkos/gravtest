@@ -2,6 +2,9 @@
 title: 'Vele usate'
 content:
     items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 date: '07-09-2018 00:25'
 taxonomy:
     category:
