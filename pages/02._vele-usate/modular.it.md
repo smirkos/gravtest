@@ -15,6 +15,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+slug: vele-usate
 features:
     -
         icon: 'fa fa-tag'
