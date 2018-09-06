@@ -15,8 +15,6 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
-menu: 'vele usate'
-slug: vele-usate
 features:
     -
         icon: 'fa fa-tag'
@@ -24,3 +22,4 @@ features:
         text: 'test gennaker '
 ---
 
+test
