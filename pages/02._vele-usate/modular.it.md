@@ -1,5 +1,7 @@
 ---
 title: 'Vele usate'
+hp5_content_id: ''
+published: true
 date: '07-09-2018 00:25'
 taxonomy:
     category:
@@ -14,6 +16,7 @@ external_links:
     target: _blank
     mode: active
 slug: vele-usate
+visible: false
 hero_classes: ''
 hero_image: ''
 header_image_alt_text: ''
