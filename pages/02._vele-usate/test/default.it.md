@@ -21,4 +21,4 @@ content:
         dir: ''
 ---
 
-Your page content goes here.
+> Your page content goes here.
