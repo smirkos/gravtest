@@ -1,7 +1,8 @@
 ---
 title: test
 date: '07-09-2018 01:06'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: '0'
+git_sync_repo_link: ''
 body_classes: modular
 hero_classes: ''
 hero_image: ''
